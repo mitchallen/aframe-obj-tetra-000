@@ -7,11 +7,6 @@ Example OBJ file with material displayed using A-Frame.
 
 * [How to Apply a Material File to an OBJ in A-Frame](https://scriptable.com/aframe/aframe-object-material)
 
-
-## Live demo:
-
-* https://mitchallen.github.io/aframe-obj-tetra-000
-
 * **desktop** - use mouse / trackpad and arrow keys to move around
 * **mobile** - use motion to pan around
 
