@@ -4,17 +4,19 @@
 mtllib colors.mtl
 
 v -0.5 -0.5 -0.5
-v 0.5 -0.5 -0.5
-v 0.5 0.5 -0.5
-v -0.5 0.5 -0.5
-v -0.5 -0.5 0.5
-v 0.5 -0.5 0.5
-v 0.5 0.5 0.5
-v -0.5 0.5 0.5
+v  0.5 -0.5 -0.5
+v  0.5  0.5 -0.5
+v -0.5  0.5 -0.5
+v -0.5 -0.5  0.5
+v  0.5 -0.5  0.5
+v  0.5  0.5  0.5
+v  -0.5 0.5  0.5
 
 o cube
 
-usemtl red1
+# cube wireframe
+
+usemtl gray1
 
 l 1 2 
 l 3 4
@@ -29,9 +31,9 @@ l 8 4
 l 4 8 
 l 5 1
 
-# Tetrahedron within cube
+# Tetrahedron wireframe
 
-usemtl blue1
+usemtl white1
 
 l 1 3
 l 1 6
