@@ -7,7 +7,7 @@ Example tetrahedron that is centered at 0,0,0
 
 * [How to Apply a Material File to an OBJ in A-Frame](https://scriptable.com/aframe/aframe-object-material)
 
-* Live demo:
+## Live demo:
 
 * https://mitchallen.github.io/aframe-obj-tetra-000/
 
