@@ -1,14 +1,14 @@
-# tetrahedron-centered.obj
+# tetrahedron-corner.obj
 # Author: Mitch Allen
 
-# This version is centered at 0,0,0
+# This version revolved around the first vertex
 
 mtllib colors.mtl
 
-v -0.5 -0.5 -0.5
-v  0.5  0.5 -0.5
-v  0.5 -0.5  0.5
-v -0.5  0.5  0.5
+v  0.0  0.0  0.0
+v  1.0  1.0  0.0
+v  1.0  0.0  1.0
+v  0.0  1.0  1.0
 
 o tetrahedron
 
