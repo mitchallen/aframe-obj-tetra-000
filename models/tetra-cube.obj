@@ -33,7 +33,7 @@ l 5 1
 
 # Tetrahedron wireframe
 
-usemtl red1
+usemtl blue1
 
 l 1 3
 l 1 6
