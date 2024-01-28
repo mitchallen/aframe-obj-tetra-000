@@ -1,5 +1,7 @@
-# tetrahedron.obj
+# tetrahedron-centered.obj
 # Author: Mitch Allen
+
+# This version is centered at 0,0,0
 
 mtllib colors.mtl
 
