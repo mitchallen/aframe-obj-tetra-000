@@ -28,5 +28,9 @@ Then browse to:
 
 * http://localhost:8000/
 
+## References
+
+* [The Tetrahedron and 109.5 Degrees](https://www.ctralie.com/Teaching/Tetrahedron/)
+
 
 
